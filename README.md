@@ -5,10 +5,8 @@ Hi there! 👋 I am an experienced software developer with a passion for buildin
 
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luojiong&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
+  <img align="center" src="./profile/stats.svg" alt="luojiong's GitHub stats" />
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luojiong&langs_count=10&hide_border=true&theme=tokyonight&count_private=true&hide=html,css,javascript,vue,cmake,shell,golang,go" />
-</a>
+<p>
+  <img align="center" src="./profile/top-langs.svg" alt="luojiong's top languages" />
+</p>
